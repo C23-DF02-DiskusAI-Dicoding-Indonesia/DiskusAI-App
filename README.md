@@ -1,7 +1,7 @@
 # DiskusAI-App
-``bash
+```bash
 docker pull antsaka/diskusai-app:frontend-integrated
-``
+```
 This is a DiskusAI front-end application designed to showcase the capabilities of Chatbot serving and Search bar serving APIs. The app, powered by Node.js and Express, allows users to explore the various features offered by each API and their seamless integration. It acts as a consumer of APIs from external websites, leveraging CORS support to facilitate secure communication between the app and the APIs.
 
 To run the app, follow these steps:
