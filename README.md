@@ -1,6 +1,6 @@
 # DiskusAI-App
 
-To run the app you provided, follow these steps:
+To run the app, follow these steps:
 
 *  Make sure you have Node.js installed on your system. You can download it from the official Node.js website (https://nodejs.org) and follow the installation instructions for your operating system.
 
